@@ -1,1 +1,1 @@
-There ia a solution to c++ courses
+A coursework for the "C++: The White Belt" course by MIPT & Yandex
