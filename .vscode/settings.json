@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iterator": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
